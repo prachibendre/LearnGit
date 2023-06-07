@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
+//Diamond Problem Code
 class storble
 {
 
